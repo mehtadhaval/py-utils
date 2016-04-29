@@ -13,4 +13,4 @@ profileimageutil.generate_image("Dhaval", temp_file, width=100, height=100)
 
 Will generate : 
 
-[logo]: https://raw.githubusercontent.com/dmehta17/py-utils/master/py-profile-image/docs/dhaval_100x100.jpg
+![](https://raw.githubusercontent.com/dmehta17/py-utils/master/py-profile-image/docs/dhaval_100x100.jpg)
